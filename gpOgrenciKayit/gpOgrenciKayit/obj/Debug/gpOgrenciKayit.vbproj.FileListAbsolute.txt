@@ -1,0 +1,12 @@
+D:\3.Yarıyıl-Dersleri-\GÖRSEL PROGRAMLAMA\gpOgrenciKayit\gpOgrenciKayit\bin\Debug\gpOgrenciKayit.exe.config
+D:\3.Yarıyıl-Dersleri-\GÖRSEL PROGRAMLAMA\gpOgrenciKayit\gpOgrenciKayit\bin\Debug\gpOgrenciKayit.exe
+D:\3.Yarıyıl-Dersleri-\GÖRSEL PROGRAMLAMA\gpOgrenciKayit\gpOgrenciKayit\bin\Debug\gpOgrenciKayit.pdb
+D:\3.Yarıyıl-Dersleri-\GÖRSEL PROGRAMLAMA\gpOgrenciKayit\gpOgrenciKayit\bin\Debug\gpOgrenciKayit.xml
+D:\3.Yarıyıl-Dersleri-\GÖRSEL PROGRAMLAMA\gpOgrenciKayit\gpOgrenciKayit\obj\Debug\gpOgrenciKayit.vbprojResolveAssemblyReference.cache
+D:\3.Yarıyıl-Dersleri-\GÖRSEL PROGRAMLAMA\gpOgrenciKayit\gpOgrenciKayit\obj\Debug\gpOgrenciKayit.Form1.resources
+D:\3.Yarıyıl-Dersleri-\GÖRSEL PROGRAMLAMA\gpOgrenciKayit\gpOgrenciKayit\obj\Debug\gpOgrenciKayit.Resources.resources
+D:\3.Yarıyıl-Dersleri-\GÖRSEL PROGRAMLAMA\gpOgrenciKayit\gpOgrenciKayit\obj\Debug\gpOgrenciKayit.vbproj.GenerateResource.cache
+D:\3.Yarıyıl-Dersleri-\GÖRSEL PROGRAMLAMA\gpOgrenciKayit\gpOgrenciKayit\obj\Debug\gpOgrenciKayit.vbproj.CoreCompileInputs.cache
+D:\3.Yarıyıl-Dersleri-\GÖRSEL PROGRAMLAMA\gpOgrenciKayit\gpOgrenciKayit\obj\Debug\gpOgrenciKayit.exe
+D:\3.Yarıyıl-Dersleri-\GÖRSEL PROGRAMLAMA\gpOgrenciKayit\gpOgrenciKayit\obj\Debug\gpOgrenciKayit.xml
+D:\3.Yarıyıl-Dersleri-\GÖRSEL PROGRAMLAMA\gpOgrenciKayit\gpOgrenciKayit\obj\Debug\gpOgrenciKayit.pdb
